@@ -12,7 +12,6 @@ Input: exp = “[(])”
 Output: Not Balanced
 Algorithm:
 
-
 Declare a character stack S.
 Now traverse the expression string exp.
 If the current character is a starting bracket (‘(‘ or ‘{‘ or ‘[‘) then push it to stack.
