@@ -34,6 +34,7 @@ public class SlidingWindowMaximum
 				dq.addLast(i);
 			//	System.out.println("i = "+i+" "+dq.peekLast());
 				
+				
 			}
 			for( ; i<n ; i++)
 			{
