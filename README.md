@@ -15,4 +15,9 @@
     You can only see the k numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.
 
 ### Question - 2  K Largest Elements
-      Program for printing k largest elements in an array. Elements in array can be in any order.
+    Program for printing k largest elements in an array. Elements in array can be in any order.
+
+## Set Interface
+
+### Question - 1 Zero Sum Array
+    Program to find if there is a subarray with 0 sum
